@@ -1,0 +1,59 @@
+.contenair{
+        width: 98%;
+        padding: 10px 20px;
+        display: flex;
+        justify-content: space-between;
+
+}
+
+.carre{
+        width: 50px;
+        height: 50px;
+        background-color: purple;
+        margin-right: 20px ;        
+}
+
+.block2{  
+        display: flex;
+        margin-right: 20px ;
+}
+
+hr{
+        background: black;
+        margin-right: 15px;
+}
+
+.contenair1{
+        width: 98%;
+        padding: 10px 20px;
+}
+.block3{
+        display: flex;
+        justify-content: space-around;
+}
+
+.contenair2{
+        width: 98%;
+        padding: 10px 20px;
+        display: flex;
+        justify-content: space-between;
+
+}
+
+.block4{
+        display: flex;
+        margin-right: 20px ;
+}
+
+.contenair3{
+        width: 98%;
+        padding: 10px 20px;
+        display: flex;
+        justify-content: center;
+
+}
+
+.block6{
+        display: flex;
+        margin-right: 20px;
+}

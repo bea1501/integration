@@ -1,0 +1,43 @@
+.container{
+    width: 100%;
+    height: 570px;
+    background: white;
+    border: none;
+}
+
+.tete{
+    width: 100%;
+    height: 90px;
+    background: #FF950E;
+    margin-top: 30px;
+}
+
+.milieu{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.menu{
+    width: 30%;
+    height: 350px;
+    background: #FF3366;
+    margin-right: 10px;
+}
+
+.contenu{
+    width: 65%;
+    height: 350px;
+    background: #9966CB;
+}
+
+.pied{
+    width: 100%;
+    height: 90px;
+    background: #569D1B;
+    margin-top: 20px;
+
+}
+p{
+    font-size: 20px;
+    text-align: center;
+}
